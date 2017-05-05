@@ -2,6 +2,8 @@
 
 2017 (c) maturi
 
+[index.html]
+
 ## About
 
 某所での交流のために作ったゲームです。
