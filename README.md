@@ -2,7 +2,7 @@
 
 2017 (c) maturi
 
-[index.html]
+(index.html)
 
 ## About
 
