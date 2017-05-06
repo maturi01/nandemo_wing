@@ -2,7 +2,7 @@
 
 2017 (c) maturi
 
-[なんでもウイング](index.html)
+[なんでもウイング](https://maturi01.github.io/nandemo_wing/)
 
 ## About
 
